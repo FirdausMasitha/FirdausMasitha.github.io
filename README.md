@@ -1,2 +1,1 @@
-# FirdausMasitha.github.io
-PKII UTS
+UTS Pemrograman Komputer 2
